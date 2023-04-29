@@ -1,8 +1,8 @@
 # Python Projects (DataCamp)  
-This repo contains python projects I completed on DataCamp ([datacamp.com](datacamp.com))  
-![DataCamp Logo](assets/datacamp.png)  
-using **Python**  
-![Python Logo](assets/python.png) 
+This repo contains python projects   
+![Python Logo](assets/python.png)  
+I completed on DataCamp ([datacamp.com](datacamp.com))  
+![DataCamp Logo](assets/datacamp.png)   
 
 These are **Guided** projects, with detailed instructions and tests for checking results.
 
